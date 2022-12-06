@@ -1,0 +1,155 @@
+.stylinglogo{
+    width: 90px;
+    height:80px;
+    padding:5px;
+}
+#go{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight:700;
+    border:0px;
+}
+#go:hover{
+    color: deeppink;
+}
+#goo1{
+    background-color:#c90202;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    border:0px;
+    margin-left: 20px;
+}
+#goo1:hover{
+    background-color: deeppink;
+    color: plum;
+}
+.bgimg1{
+    background-image: url("https://img.freepik.com/premium-photo/chicken-dhum-biriyani-using-jeera-rice-spices-arranged-earthen-ware_527904-522.jpg?w=1060");
+    background-size: cover;
+    height:60vh;
+}
+.scbar{
+    background-color:deeppink;
+    direction:left;
+    width: 100%;
+    height:60px;
+    font-size: 30px;
+    font-weight: bold;
+    padding:2px;
+}
+.heading{
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: white;
+    font-weight: bold;
+}
+.paraline{
+    color: #f5f7fa;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    font-size: 29px;
+}
+.search input[type=text]{
+    width:400px;
+    height:40px;
+    border-radius:30px;
+    border: none;
+}
+.search{
+    float:right;
+    margin:7px;
+}
+.search button{
+    background-color: #00d916;
+    color:#00d916;
+    float: right;
+    padding: 5px 10px;
+    margin-right: 16px;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+}
+.buttonst{
+    color:white;
+    background-color: #c90202;
+    width: 230px;
+    height:45px;
+    border-width: 0px;
+    border-radius: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.bgimg2{
+    background-color: azure;
+}
+.head2{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:35px;
+    font-weight: 700;
+}
+.para2{
+    color:black;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.carding{
+    text-align: center;
+    background-color: pink;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#00d916;
+    border-radius: 16px;
+}
+.cardimage{
+    width:120px;
+    height: 110px;
+}
+.chead{
+    color:#323f4b;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+.cpara{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 19px;
+}
+.offers{
+    color:black;
+    font-style: italic;
+    font-weight: 600;
+}
+#contact{
+    background-color: grey;
+    padding-bottom: 4rem;
+}
+.socialicons{
+    font-size: 40px;
+    cursor: pointer;
+}
+#icenter1{
+    text-align: center;
+}
+.fa-brands{
+    color: white;
+}
+.fa-square-facebook,.fa-instagram,.fa-linkedin,.fa-youtube{
+    margin: 40px;
+}
+.fa-youtube:hover{
+    color: red;
+}
+.fa-square-facebook:hover,.fa-linkedin:hover{
+    color: blue;
+}
+.fa-instagram:hover{
+    color: rgb(243, 16, 175);
+}
